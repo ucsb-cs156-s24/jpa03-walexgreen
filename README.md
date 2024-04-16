@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-walexgreen
 
 Running at: <http://jpa03-walexgreen.dokku-13.cs.ucsb.edu>
 
